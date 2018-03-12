@@ -17,6 +17,8 @@ namespace WebApplication2
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .Build();
+            //asd 10.43
+            //11
 
             host.Run();
         }
